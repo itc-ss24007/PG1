@@ -1,0 +1,10 @@
+name = input("what is your name?")
+print(name)
+print(len(name))
+name_iter = iter(name)
+print(next(name_iter))
+print(next(name_iter))
+print(next(name_iter))
+print(next(name_iter))
+print(next(name_iter))
+
